@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/lexig/Downloads/MultiMap/header files/MultiMap.h
+vector
+-
+utility
+-
+
+/mnt/c/Users/lexig/Downloads/MultiMap/header files/MultiMapIterator.h
+MultiMap.h
+/mnt/c/Users/lexig/Downloads/MultiMap/header files/MultiMap.h
+
+/mnt/c/Users/lexig/Downloads/MultiMap/source files/MultiMap.cpp
+../header files/MultiMap.h
+/mnt/c/Users/lexig/Downloads/MultiMap/header files/MultiMap.h
+../header files/MultiMapIterator.h
+/mnt/c/Users/lexig/Downloads/MultiMap/header files/MultiMapIterator.h
+exception
+-
+iostream
+-
+

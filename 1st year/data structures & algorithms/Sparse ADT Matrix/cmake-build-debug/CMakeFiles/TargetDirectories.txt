@@ -1,0 +1,3 @@
+C:/Users/lexig/OneDrive/Documente/GitHub/university-work/1st year/data structures & algorithms/Matrix/cmake-build-debug/CMakeFiles/Matrix.dir
+C:/Users/lexig/OneDrive/Documente/GitHub/university-work/1st year/data structures & algorithms/Matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lexig/OneDrive/Documente/GitHub/university-work/1st year/data structures & algorithms/Matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
