@@ -1,0 +1,3 @@
+/mnt/c/Users/lexig/CLionProjects/test2_oop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/lexig/CLionProjects/test2_oop/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/lexig/CLionProjects/test2_oop/cmake-build-debug/CMakeFiles/test2_oop.dir

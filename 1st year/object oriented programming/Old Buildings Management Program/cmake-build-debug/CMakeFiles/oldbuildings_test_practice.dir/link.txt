@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/oldbuildings_test_practice.dir/main.cpp.o CMakeFiles/oldbuildings_test_practice.dir/source/service.cpp.o CMakeFiles/oldbuildings_test_practice.dir/source/buildings.cpp.o  -o oldbuildings_test_practice 

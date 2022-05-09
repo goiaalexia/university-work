@@ -1,0 +1,3 @@
+name: georgica  income: 2700.000000  total: 2700.000000
+name: thieves_company  income: 22000.000000  money: 3700.000000  total: 25700.000000
+name: rich_dudes_company  income: 333000.000000  money: 50000.000000  total: 383000.000000

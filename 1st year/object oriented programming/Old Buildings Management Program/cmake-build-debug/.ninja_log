@@ -1,0 +1,6 @@
+# ninja log v5
+12	362	6731954144645769	CMakeFiles/oldbuildings_test_practice.dir/main.cpp.obj	52e83760944d5443
+410	523	6731954146245747	oldbuildings_test_practice.exe	7e858f0510a1563b
+3	294	6731952893620863	CMakeFiles/oldbuildings_test_practice.dir/source/buildings.cpp.obj	c25b47c2851213cd
+2	410	6731954145145745	CMakeFiles/oldbuildings_test_practice.dir/source/service.cpp.obj	88ac333a639f1535
+3	299	6732072566743692	build.ninja	86e804ba441169ad

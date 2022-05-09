@@ -1,0 +1,18 @@
+# ninja log v5
+3	198	6733572238277771	build.ninja	8e11b5cd71ea713f
+0	361	6733571362247659	CMakeFiles/test2_oop.dir/sources/object.cpp.obj	2e56c729f00a762b
+4	541	6733571364040508	CMakeFiles/test2_oop.dir/sources/main.cpp.obj	745a40ff64196074
+6	584	6733571364470552	CMakeFiles/test2_oop.dir/sources/service.cpp.obj	729eac2c39cecd2
+19	431	6733572508557645	CMakeFiles/test2_oop.dir/sources/object.cpp.obj	2e56c729f00a762b
+4	664	6733572510877670	CMakeFiles/test2_oop.dir/sources/main.cpp.obj	745a40ff64196074
+23	706	6733572511307769	CMakeFiles/test2_oop.dir/sources/service.cpp.obj	729eac2c39cecd2
+3	626	6733573306485819	CMakeFiles/test2_oop.dir/sources/main.cpp.obj	745a40ff64196074
+18	665	6733573306875654	CMakeFiles/test2_oop.dir/sources/service.cpp.obj	729eac2c39cecd2
+3	405	6733573414560632	CMakeFiles/test2_oop.dir/sources/object.cpp.obj	2e56c729f00a762b
+23	438	6733573573718674	CMakeFiles/test2_oop.dir/sources/object.cpp.obj	2e56c729f00a762b
+4	656	6733573575918680	CMakeFiles/test2_oop.dir/sources/main.cpp.obj	745a40ff64196074
+27	680	6733573576148777	CMakeFiles/test2_oop.dir/sources/service.cpp.obj	729eac2c39cecd2
+18	447	6733573642266116	CMakeFiles/test2_oop.dir/sources/object.cpp.obj	2e56c729f00a762b
+3	647	6733573644326206	CMakeFiles/test2_oop.dir/sources/main.cpp.obj	745a40ff64196074
+21	694	6733573644796058	CMakeFiles/test2_oop.dir/sources/service.cpp.obj	729eac2c39cecd2
+694	811	6733573645926209	test2_oop.exe	6a197dd534eb6673

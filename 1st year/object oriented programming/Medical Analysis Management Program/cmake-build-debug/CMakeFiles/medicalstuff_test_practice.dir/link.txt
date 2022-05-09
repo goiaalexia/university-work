@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/medicalstuff_test_practice.dir/main.cpp.o CMakeFiles/medicalstuff_test_practice.dir/sources/measurements.cpp.o CMakeFiles/medicalstuff_test_practice.dir/sources/person.cpp.o  -o medicalstuff_test_practice 

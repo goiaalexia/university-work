@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/lexig/CLionProjects/t1-913-Goia-Alexia-2/header files/bill.h
+string
+-
+
+/mnt/c/Users/lexig/CLionProjects/t1-913-Goia-Alexia-2/header files/dynamicArray.h
+cstdlib
+-
+
+/mnt/c/Users/lexig/CLionProjects/t1-913-Goia-Alexia-2/header files/repo.h
+dynamicArray.h
+/mnt/c/Users/lexig/CLionProjects/t1-913-Goia-Alexia-2/header files/dynamicArray.h
+string
+-
+bill.h
+/mnt/c/Users/lexig/CLionProjects/t1-913-Goia-Alexia-2/header files/bill.h
+
+/mnt/c/Users/lexig/CLionProjects/t1-913-Goia-Alexia-2/header files/service.h
+repo.h
+/mnt/c/Users/lexig/CLionProjects/t1-913-Goia-Alexia-2/header files/repo.h
+bill.h
+/mnt/c/Users/lexig/CLionProjects/t1-913-Goia-Alexia-2/header files/bill.h
+string
+-
+
+/mnt/c/Users/lexig/CLionProjects/t1-913-Goia-Alexia-2/header files/ui.h
+service.h
+/mnt/c/Users/lexig/CLionProjects/t1-913-Goia-Alexia-2/header files/service.h
+
+/mnt/c/Users/lexig/CLionProjects/t1-913-Goia-Alexia-2/source files/ui.cpp
+iostream
+-
+../header files/repo.h
+/mnt/c/Users/lexig/CLionProjects/t1-913-Goia-Alexia-2/header files/repo.h
+../header files/ui.h
+/mnt/c/Users/lexig/CLionProjects/t1-913-Goia-Alexia-2/header files/ui.h
+cstdlib
+-
+

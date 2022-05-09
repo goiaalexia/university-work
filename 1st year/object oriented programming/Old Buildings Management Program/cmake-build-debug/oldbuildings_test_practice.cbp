@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="oldbuildings_test_practice"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/lexig/CLionProjects/oldbuildings test practice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/lexig/CLionProjects/oldbuildings test practice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/lexig/CLionProjects/oldbuildings test practice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="oldbuildings_test_practice">
+				<Option output="/mnt/c/Users/lexig/CLionProjects/oldbuildings test practice/cmake-build-debug/oldbuildings_test_practice" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/lexig/CLionProjects/oldbuildings test practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 oldbuildings_test_practice"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="oldbuildings_test_practice/fast">
+				<Option output="/mnt/c/Users/lexig/CLionProjects/oldbuildings test practice/cmake-build-debug/oldbuildings_test_practice" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/lexig/CLionProjects/oldbuildings test practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 oldbuildings_test_practice/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/lexig/CLionProjects/oldbuildings\ test\ practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/lexig/CLionProjects/oldbuildings test practice/headers/buildings.h">
+			<Option target="oldbuildings_test_practice"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/lexig/CLionProjects/oldbuildings test practice/headers/repo.h">
+			<Option target="oldbuildings_test_practice"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/lexig/CLionProjects/oldbuildings test practice/headers/service.h">
+			<Option target="oldbuildings_test_practice"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/lexig/CLionProjects/oldbuildings test practice/headers/ui.h">
+			<Option target="oldbuildings_test_practice"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/lexig/CLionProjects/oldbuildings test practice/main.cpp">
+			<Option target="oldbuildings_test_practice"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/lexig/CLionProjects/oldbuildings test practice/source/buildings.cpp">
+			<Option target="oldbuildings_test_practice"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/lexig/CLionProjects/oldbuildings test practice/source/service.cpp">
+			<Option target="oldbuildings_test_practice"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/lexig/CLionProjects/oldbuildings test practice/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

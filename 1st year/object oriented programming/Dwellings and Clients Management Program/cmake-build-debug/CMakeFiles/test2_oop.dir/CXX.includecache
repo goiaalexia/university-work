@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/lexig/CLionProjects/test2_oop/headers/client.h
+dwelling.h
+/mnt/c/Users/lexig/CLionProjects/test2_oop/headers/dwelling.h
+
+/mnt/c/Users/lexig/CLionProjects/test2_oop/headers/dwelling.h
+iostream
+-
+
+/mnt/c/Users/lexig/CLionProjects/test2_oop/headers/realestate.h
+dwelling.h
+/mnt/c/Users/lexig/CLionProjects/test2_oop/headers/dwelling.h
+client.h
+/mnt/c/Users/lexig/CLionProjects/test2_oop/headers/client.h
+fstream
+-
+vector
+-
+random
+-
+
+/mnt/c/Users/lexig/CLionProjects/test2_oop/headers/ui.h
+realestate.h
+/mnt/c/Users/lexig/CLionProjects/test2_oop/headers/realestate.h
+fstream
+-
+
+/mnt/c/Users/lexig/CLionProjects/test2_oop/sources/main.cpp
+iostream
+-
+../headers/ui.h
+/mnt/c/Users/lexig/CLionProjects/test2_oop/headers/ui.h
+

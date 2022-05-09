@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/test2_oop.dir/sources/main.cpp.o CMakeFiles/test2_oop.dir/sources/realestate.cpp.o CMakeFiles/test2_oop.dir/sources/client.cpp.o  -o test2_oop 
