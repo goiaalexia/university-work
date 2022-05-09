@@ -16,3 +16,9 @@ all the projects & work I've been working on while @ BBU 💅
 ***&rarr; [Operating Systems 🔥](https://github.com/saltylex/university-work/tree/main/1st%20year/operating%20systems)***  
 ***&rarr; [Dynamical Systems 🏄](https://github.com/saltylex/university-work/tree/main/1st%20year/dynamical%20systems)***  
 ***&rarr; [Geometry 🔺](https://github.com/saltylex/university-work/tree/main/1st%20year/geometry)***  
+
+#### to do:
+- [ ] commit to the other repos  
+- [ ] write the readme files for the left projects  
+- [ ] go over the code in some places  
+- [ ] gui for the rock, paper, scissors! game  
