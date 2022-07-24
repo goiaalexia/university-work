@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/lexig/CLionProjects/T1_Goia_Alexia_mockup/cpp files/main.cpp
+../header files/ui.h
+/mnt/c/Users/lexig/CLionProjects/T1_Goia_Alexia_mockup/header files/ui.h
+../header files/tests.h
+/mnt/c/Users/lexig/CLionProjects/T1_Goia_Alexia_mockup/header files/tests.h
+
+/mnt/c/Users/lexig/CLionProjects/T1_Goia_Alexia_mockup/cpp files/ui.cpp
+
+/mnt/c/Users/lexig/CLionProjects/T1_Goia_Alexia_mockup/header files/ui.h
+
