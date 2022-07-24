@@ -1,3 +1,0 @@
-C:/Users/lexig/OneDrive/Documente/GitHub/university-work/1st year/object oriented programming/a1-913-Goia-Alexia-1/cmake-build-debug/CMakeFiles/a1_913_Goia_Alexia_1.dir
-C:/Users/lexig/OneDrive/Documente/GitHub/university-work/1st year/object oriented programming/a1-913-Goia-Alexia-1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/lexig/OneDrive/Documente/GitHub/university-work/1st year/object oriented programming/a1-913-Goia-Alexia-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

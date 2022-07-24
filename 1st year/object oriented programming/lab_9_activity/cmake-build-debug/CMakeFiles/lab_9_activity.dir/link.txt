@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/lab_9_activity.dir/main.cpp.o  -o lab_9_activity 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/T1_Goia_Alexia_mockup.dir/cpp_files/main.cpp.o CMakeFiles/T1_Goia_Alexia_mockup.dir/cpp_files/ui.cpp.o  -o T1_Goia_Alexia_mockup 

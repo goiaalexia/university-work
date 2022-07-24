@@ -1,3 +1,0 @@
-C:/Users/lexig/CLionProjects/seminar5/cmake-build-debug/CMakeFiles/CSVPlaylist.h.dir
-C:/Users/lexig/CLionProjects/seminar5/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/lexig/CLionProjects/seminar5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/mnt/c/Users/lexig/CLionProjects/T1_Goia_Alexia_mockup/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/lexig/CLionProjects/T1_Goia_Alexia_mockup/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/lexig/CLionProjects/T1_Goia_Alexia_mockup/cmake-build-debug/CMakeFiles/T1_Goia_Alexia_mockup.dir
