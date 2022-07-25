@@ -1,4 +1,4 @@
-## Shell Exercises
+## 🐚 Shell Exercises
 #### 1.  Display a report showing the full name of all the users currently connected, and the number of processes belonging to each of them.   
 #### 2.  Find recursively in a directory all ".c" files having more than 500 lines. Stop after finding 2 such files.
 #### 3.  Find recursively in a directory, all the files with the extension ".log" and sort their lines (replace the original file with the sorted content).	 
