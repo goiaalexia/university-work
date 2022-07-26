@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "seminar_6",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "seminar_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-seminar_6-Debug-d0bf54d61ab83ddbe4ee.json",
+					"name" : "seminar_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "seminar_6_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-seminar_6_autogen-Debug-b42b5020ace684b4664f.json",
+					"name" : "seminar_6_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "seminar_6_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-seminar_6_autogen_timestamp_deps-Debug-38bd4dc0b5dad7af6f9d.json",
+					"name" : "seminar_6_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/lexig/Downloads/Sorted Map/seminar-6/seminar-6/cmake-build-debug",
+		"source" : "C:/Users/lexig/Downloads/Sorted Map/seminar-6/seminar-6"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

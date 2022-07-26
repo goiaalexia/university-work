@@ -1,0 +1,14 @@
+# ninja log v5
+1	235	6758843513294609	seminar_6_autogen/timestamp	2d121d85e23b70dc
+1	235	6758843513294609	seminar_6_autogen/mocs_compilation.cpp	2d121d85e23b70dc
+1	235	6758843513294609	C:/Users/lexig/Downloads/Sorted Map/seminar-6/seminar-6/cmake-build-debug/seminar_6_autogen/timestamp	2d121d85e23b70dc
+1	235	6758843513294609	C:/Users/lexig/Downloads/Sorted Map/seminar-6/seminar-6/cmake-build-debug/seminar_6_autogen/mocs_compilation.cpp	2d121d85e23b70dc
+236	307	6758843514789407	CMakeFiles/seminar_6.dir/seminar_6_autogen/mocs_compilation.cpp.obj	69c201d2f2af9080
+241	691	6758843518696441	CMakeFiles/seminar_6.dir/main.cpp.obj	a1afe9a5b30b9d50
+693	1054	6758843520170348	seminar_6.exe	f79da8fafd319bf9
+11	874	6758846990843845	seminar_6_autogen/timestamp	2d121d85e23b70dc
+11	874	6758846990843845	seminar_6_autogen/mocs_compilation.cpp	2d121d85e23b70dc
+11	874	6758846990843845	C:/Users/lexig/Downloads/Sorted Map/seminar-6/seminar-6/cmake-build-debug/seminar_6_autogen/timestamp	2d121d85e23b70dc
+11	874	6758846990843845	C:/Users/lexig/Downloads/Sorted Map/seminar-6/seminar-6/cmake-build-debug/seminar_6_autogen/mocs_compilation.cpp	2d121d85e23b70dc
+877	2580	6758847009721155	CMakeFiles/seminar_6.dir/seminar_6_autogen/mocs_compilation.cpp.obj	69c201d2f2af9080
+874	2704	6758847010960413	CMakeFiles/seminar_6.dir/main.cpp.obj	a1afe9a5b30b9d50

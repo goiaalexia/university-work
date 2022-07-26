@@ -1,0 +1,17 @@
+# ninja log v5
+17	126	6757981963566464	CMakeFiles/Sorted_Map.dir/SMIterator.cpp.obj	8aed8be236105503
+22	165	6757977392742519	CMakeFiles/Sorted_Map.dir/ShortTest.cpp.obj	ebc76c84608c9f6e
+20	132	6757981963636503	CMakeFiles/Sorted_Map.dir/SortedMap.cpp.obj	ab852fc135b884
+3	367	6757981965961707	CMakeFiles/Sorted_Map.dir/App.cpp.obj	d1e836fb892c3d63
+3	607	6757977397182612	CMakeFiles/Sorted_Map.dir/ExtendedTest.cpp.obj	5b84d4d1b73bceff
+367	483	6757981967102022	Sorted_Map.exe	ce41b71a32f2d44e
+23	146	6757983681957110	CMakeFiles/Sorted_Map.dir/ShortTest.cpp.obj	ebc76c84608c9f6e
+26	147	6757983681967114	CMakeFiles/Sorted_Map.dir/SMIterator.cpp.obj	8aed8be236105503
+20	149	6757983681997112	CMakeFiles/Sorted_Map.dir/SortedMap.cpp.obj	ab852fc135b884
+3	440	6757983684867128	CMakeFiles/Sorted_Map.dir/App.cpp.obj	d1e836fb892c3d63
+17	619	6757983686687158	CMakeFiles/Sorted_Map.dir/ExtendedTest.cpp.obj	5b84d4d1b73bceff
+619	765	6757983688097115	Sorted_Map.exe	ce41b71a32f2d44e
+3	134	6757986876535894	CMakeFiles/Sorted_Map.dir/ShortTest.cpp.obj	ebc76c84608c9f6e
+134	256	6757986877735910	Sorted_Map.exe	ce41b71a32f2d44e
+4	123	6757987137189692	CMakeFiles/Sorted_Map.dir/ShortTest.cpp.obj	ebc76c84608c9f6e
+123	240	6757987138337928	Sorted_Map.exe	ce41b71a32f2d44e
