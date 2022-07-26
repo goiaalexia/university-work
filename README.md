@@ -18,7 +18,6 @@ all the projects & work I've been working on while @ BBU 💅
 ***&rarr; [Geometry 🔺](https://github.com/saltylex/university-work/tree/main/1st%20year/geometry)***  
 
 #### to do:
-- [ ] commit to the other repos  
-- [ ] write the readme files for the left projects  
-- [ ] go over the code in some places  
-- [ ] gui for the rock, paper, scissors! game  
+- [ ] commit to oop, csa and os folders 
+- [ ] write readme files for oop, csa and os (c) programs   
+- [ ] rearrange this readme and add a table with concepts
