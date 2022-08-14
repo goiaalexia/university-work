@@ -3,9 +3,9 @@
 all the projects & work done while @ BBU, Cluj-Napoca.
 <table align=center>
   <tr align=center>
-    <td> No. </td>
-    <td> Course </td>
-    <td>Tech Stack/Concepts</td>
+    <td> <b><i>No.</b></i> </td>
+    <td> <b><i>Course</b></i> </td>
+    <td><b><i>Tech Stack/Concepts</b></i></td>
   </tr>
   <tr>
     <td colspan=3 align=center><i>1st Semester</i></td>
@@ -42,7 +42,7 @@ all the projects & work done while @ BBU, Cluj-Napoca.
     <td> preparing a CV, preparing an interview, career choice perspectives, documentation for academic and professional writing </td>
   </tr>
     <tr>
-    <td colspan=3 align=center>2nd Semester</td>
+  <td colspan=3 align=center><i>2nd Semester</i></td>
   </tr>
   <tr>
     <td> 7. </td>
