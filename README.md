@@ -2,7 +2,7 @@
 ---
 ## About   
 
-* this repository contains all the projects done while studying Computer Science at the Babeș-Bolyai University of Cluj-Napoca, and is periodically updated. (a.k.a. when I remember to)
+* this repository contains all the projects done while studying ***Computer Science*** at the ***Babeș-Bolyai University of Cluj-Napoca***, and is periodically updated. (*a.k.a. when I remember to*)
 
 ## Table of Contents
 <table align=center>
