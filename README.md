@@ -1,6 +1,10 @@
-## university-work ✨ (WIP!)
+# ✨ *University Work & Projects*
 ---
-all the projects & work done while @ BBU, Cluj-Napoca.
+## About   
+
+* this repository contains all the projects done while studying Computer Science at the Babeș-Bolyai University of Cluj-Napoca, and is periodically updated. (a.k.a. when I remember to)
+
+## Table of Contents
 <table align=center>
   <tr align=center>
     <td> <b><i>No.</b></i> </td>
@@ -80,4 +84,3 @@ all the projects & work done while @ BBU, Cluj-Napoca.
 #### to do:
 - [ ] commit to csa and os (c) folders 
 - [ ] write readme files for oop, csa and os (c) programs   
-- [ ] rearrange this readme
