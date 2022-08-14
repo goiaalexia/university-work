@@ -1,5 +1,7 @@
 # ✨ *University Work & Projects*
----
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=saltylex.university-work.visitor-badge&left_color=PaleVioletRed&right_color=purple)
+
 ## About   
 
 * this repository contains all the projects done while studying ***Computer Science*** at the ***Babeș-Bolyai University of Cluj-Napoca***, and is periodically updated. (*a.k.a. when I remember to*)
