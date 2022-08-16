@@ -84,5 +84,5 @@
 </table>
 
 #### to do:
-- [ ] commit to csa and os (c) folders 
-- [ ] write readme files for oop, csa and os (c) programs   
+- [ ] commit to os (c) repo 
+- [ ] write readme files for oop, dsa and os (c) programs   
