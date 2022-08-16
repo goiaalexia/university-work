@@ -1,11 +1,17 @@
-## university-work ✨ (WIP!)
----
-all the projects & work done while @ BBU, Cluj-Napoca.
+# ✨ *University Work & Projects*
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=saltylex.university-work.visitor-badge&left_color=PaleVioletRed&right_color=purple)
+
+## About   
+
+* this repository contains all the projects done while studying ***Computer Science*** at the ***Babeș-Bolyai University of Cluj-Napoca***, and is periodically updated. (*a.k.a. when I remember to*)
+
+## Table of Contents
 <table align=center>
   <tr align=center>
-    <td> No. </td>
-    <td> Course </td>
-    <td>Tech Stack/Concepts</td>
+    <td> <b><i>No.</b></i> </td>
+    <td> <b><i>Course</b></i> </td>
+    <td><b><i>Tech Stack/Concepts</b></i></td>
   </tr>
   <tr>
     <td colspan=3 align=center><i>1st Semester</i></td>
@@ -42,7 +48,7 @@ all the projects & work done while @ BBU, Cluj-Napoca.
     <td> preparing a CV, preparing an interview, career choice perspectives, documentation for academic and professional writing </td>
   </tr>
     <tr>
-    <td colspan=3 align=center>2nd Semester</td>
+  <td colspan=3 align=center><i>2nd Semester</i></td>
   </tr>
   <tr>
     <td> 7. </td>
@@ -80,4 +86,3 @@ all the projects & work done while @ BBU, Cluj-Napoca.
 #### to do:
 - [ ] commit to csa and os (c) folders 
 - [ ] write readme files for oop, csa and os (c) programs   
-- [ ] rearrange this readme
