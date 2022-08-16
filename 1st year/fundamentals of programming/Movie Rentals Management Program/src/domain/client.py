@@ -29,6 +29,5 @@ class Client:
         f = f"{client.id},{client.name}"
         return f
 
-
     def __str__(self):
         return f"Client {self._name} with ID {self.__id}"
