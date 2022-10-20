@@ -80,9 +80,36 @@
     <td> <b>📐 Geometry</b> </td>
     <td> analytic geometry, quadratic curves & surfaces, affine geometry </td>
   </tr>
-  
+   <td colspan=3 align=center><i>3rd Semester</i></td>
+  </tr>
+  <tr>
+    <td> 13. </td>
+    <td> <a href="https://github.com/saltylex/university-work/tree/main/2nd%20year/Advanced%20Programming%20Methods"><b>🐱‍🐉 Advanced Programming Methods</b></a> </td>
+    <td> Java (wip) </td>
+  </tr>
+  <tr>
+    <td> 14. </td>
+    <td> <a href="https://github.com/saltylex/university-work/tree/main/2nd%20year/Computer%20Networks"><b>🍝 Computer Networks</b></a> </td>
+    <td> TCP/IP, UDP, Sockets (wip) </td>
+  </tr>
+    <tr>
+    <td> 15. </td>
+    <td> <a href="https://github.com/saltylex/university-work/tree/main/2nd%20year/Databases"><b>🧃 Databases</b></a> </td>
+    <td> SQL, queries (wip) </td>
+  </tr>
+    <tr>
+    <td> 16. </td>
+    <td> <a href="https://github.com/saltylex/university-work/tree/main/2nd%20year/Logical%20%26%20Functional%20Programming"><b>🤓 Logical & Functional Programming</b></a> </td>
+    <td> Prolog, Lisp, Mathematical Models (wip) </td>
+  </tr>
+    <tr>
+    <td> 17. </td>
+    <td><a href="https://github.com/saltylex/university-work/tree/main/2nd%20year/Probabilities%20%26%20Statistics"> <b>🤏 Probabilities & Statistics</b> </td>
+    <td> Matlab, Distributions (wip) </td>
+  </tr>
 </table>
 
 #### to do:
-- [ ] commit to os (c) repo 
-- [ ] write readme files for oop, dsa, graphs and os (c) programs   
+- [ ] commit the other POSIX/UNIX c exercises
+- [ ] write readme files for oop, dsa and graphs 
+- [ ] commit current 3rd semester files
