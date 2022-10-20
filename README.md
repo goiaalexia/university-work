@@ -85,4 +85,4 @@
 
 #### to do:
 - [ ] commit to os (c) repo 
-- [ ] write readme files for oop, dsa and os (c) programs   
+- [ ] write readme files for oop, dsa, graphs and os (c) programs   
