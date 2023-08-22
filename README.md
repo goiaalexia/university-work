@@ -110,6 +110,5 @@
 </table>
 
 #### to do:
-- [ ] commit the other POSIX/UNIX c exercises
 - [ ] write readme files for oop, dsa and graphs 
-- [ ] commit current 3rd semester files
+- [ ] commit 2nd year files
