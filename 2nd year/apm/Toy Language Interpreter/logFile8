@@ -1,0 +1,1022 @@
+ID: -1195514472
+
+~ EXECUTION STACK ~
+(Ref(int) v;(New{v, 20};(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}}))))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+Ref(int) v|(New{v, 20};(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+Ref(int) v|(New{v, 20};(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+(New{v, 20};(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{0 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+(New{v, 20};(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{0 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+New{v, 20}|(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}}))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{0 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+New{v, 20}|(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}}))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{0 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}}))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{183968257 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+183968257 -> 20
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}}))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{183968257 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+183968257 -> 20
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+Ref(Ref(int)) a|(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{183968257 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+183968257 -> 20
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+Ref(Ref(int)) a|(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{183968257 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+183968257 -> 20
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{0 -> Ref(int)}
+v -> ReferenceValue{183968257 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+183968257 -> 20
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{0 -> Ref(int)}
+v -> ReferenceValue{183968257 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+183968257 -> 20
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+New{a, v}|(New{v, 30};print(ReadHeap{ReadHeap{a}}))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{0 -> Ref(int)}
+v -> ReferenceValue{183968257 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+183968257 -> 20
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+New{a, v}|(New{v, 30};print(ReadHeap{ReadHeap{a}}))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{0 -> Ref(int)}
+v -> ReferenceValue{183968257 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+183968257 -> 20
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+(New{v, 30};print(ReadHeap{ReadHeap{a}}))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{491752568 -> Ref(int)}
+v -> ReferenceValue{183968257 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+183968257 -> 20
+491752568 -> ReferenceValue{183968257 -> int}
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+(New{v, 30};print(ReadHeap{ReadHeap{a}}))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{491752568 -> Ref(int)}
+v -> ReferenceValue{183968257 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+183968257 -> 20
+491752568 -> ReferenceValue{183968257 -> int}
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+New{v, 30}|print(ReadHeap{ReadHeap{a}})|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{491752568 -> Ref(int)}
+v -> ReferenceValue{183968257 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+183968257 -> 20
+491752568 -> ReferenceValue{183968257 -> int}
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+New{v, 30}|print(ReadHeap{ReadHeap{a}})|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{491752568 -> Ref(int)}
+v -> ReferenceValue{183968257 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+183968257 -> 20
+491752568 -> ReferenceValue{183968257 -> int}
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+print(ReadHeap{ReadHeap{a}})|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{491752568 -> Ref(int)}
+v -> ReferenceValue{1886918331 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1886918331 -> 30
+491752568 -> ReferenceValue{183968257 -> int}
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+print(ReadHeap{ReadHeap{a}})|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{491752568 -> Ref(int)}
+v -> ReferenceValue{1886918331 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1886918331 -> 30
+491752568 -> ReferenceValue{183968257 -> int}
+
+
+ID: -1195514472
+
+~ EXECUTION STACK ~
+
+~ SYMBOL TABLE ~
+a -> ReferenceValue{491752568 -> Ref(int)}
+v -> ReferenceValue{1886918331 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1886918331 -> 30
+491752568 -> ReferenceValue{183968257 -> int}
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+(Ref(int) v;(New{v, 20};(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}}))))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+Ref(int) v|(New{v, 20};(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+Ref(int) v|(New{v, 20};(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+(New{v, 20};(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{0 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+(New{v, 20};(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{0 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+New{v, 20}|(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}}))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{0 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+New{v, 20}|(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}}))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{0 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}}))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{265095504 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+265095504 -> 20
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}}))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{265095504 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+265095504 -> 20
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+Ref(Ref(int)) a|(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{265095504 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+265095504 -> 20
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+Ref(Ref(int)) a|(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{265095504 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+265095504 -> 20
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{0 -> Ref(int)}
+v -> ReferenceValue{265095504 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+265095504 -> 20
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{0 -> Ref(int)}
+v -> ReferenceValue{265095504 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+265095504 -> 20
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+New{a, v}|(New{v, 30};print(ReadHeap{ReadHeap{a}}))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{0 -> Ref(int)}
+v -> ReferenceValue{265095504 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+265095504 -> 20
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+New{a, v}|(New{v, 30};print(ReadHeap{ReadHeap{a}}))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{0 -> Ref(int)}
+v -> ReferenceValue{265095504 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+265095504 -> 20
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+(New{v, 30};print(ReadHeap{ReadHeap{a}}))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{1956048793 -> Ref(int)}
+v -> ReferenceValue{265095504 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+265095504 -> 20
+1956048793 -> ReferenceValue{265095504 -> int}
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+(New{v, 30};print(ReadHeap{ReadHeap{a}}))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{1956048793 -> Ref(int)}
+v -> ReferenceValue{265095504 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+265095504 -> 20
+1956048793 -> ReferenceValue{265095504 -> int}
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+New{v, 30}|print(ReadHeap{ReadHeap{a}})|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{1956048793 -> Ref(int)}
+v -> ReferenceValue{265095504 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+265095504 -> 20
+1956048793 -> ReferenceValue{265095504 -> int}
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+New{v, 30}|print(ReadHeap{ReadHeap{a}})|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{1956048793 -> Ref(int)}
+v -> ReferenceValue{265095504 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+265095504 -> 20
+1956048793 -> ReferenceValue{265095504 -> int}
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+print(ReadHeap{ReadHeap{a}})|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{1956048793 -> Ref(int)}
+v -> ReferenceValue{2088909581 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+265095504 -> 20
+1956048793 -> ReferenceValue{265095504 -> int}
+2088909581 -> 30
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+print(ReadHeap{ReadHeap{a}})|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{1956048793 -> Ref(int)}
+v -> ReferenceValue{2088909581 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+265095504 -> 20
+1956048793 -> ReferenceValue{265095504 -> int}
+2088909581 -> 30
+
+
+ID: 834251574
+
+~ EXECUTION STACK ~
+
+~ SYMBOL TABLE ~
+a -> ReferenceValue{1956048793 -> Ref(int)}
+v -> ReferenceValue{2088909581 -> int}
+
+~ OUTPUT ~
+20
+
+~ FILE TABLE ~
+
+~ HEAP ~
+265095504 -> 20
+1956048793 -> ReferenceValue{265095504 -> int}
+2088909581 -> 30
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+(Ref(int) v;(New{v, 20};(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}}))))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+Ref(int) v|(New{v, 20};(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+Ref(int) v|(New{v, 20};(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+(New{v, 20};(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{0 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+(New{v, 20};(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{0 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+New{v, 20}|(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}}))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{0 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+New{v, 20}|(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}}))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{0 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}}))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{1067022162 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1067022162 -> 20
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+(Ref(Ref(int)) a;(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}}))))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{1067022162 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1067022162 -> 20
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+Ref(Ref(int)) a|(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{1067022162 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1067022162 -> 20
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+Ref(Ref(int)) a|(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))|
+~ SYMBOL TABLE ~
+v -> ReferenceValue{1067022162 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1067022162 -> 20
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{0 -> Ref(int)}
+v -> ReferenceValue{1067022162 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1067022162 -> 20
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+(New{a, v};(New{v, 30};print(ReadHeap{ReadHeap{a}})))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{0 -> Ref(int)}
+v -> ReferenceValue{1067022162 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1067022162 -> 20
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+New{a, v}|(New{v, 30};print(ReadHeap{ReadHeap{a}}))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{0 -> Ref(int)}
+v -> ReferenceValue{1067022162 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1067022162 -> 20
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+New{a, v}|(New{v, 30};print(ReadHeap{ReadHeap{a}}))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{0 -> Ref(int)}
+v -> ReferenceValue{1067022162 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1067022162 -> 20
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+(New{v, 30};print(ReadHeap{ReadHeap{a}}))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{1906597429 -> Ref(int)}
+v -> ReferenceValue{1067022162 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1906597429 -> ReferenceValue{1067022162 -> int}
+1067022162 -> 20
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+(New{v, 30};print(ReadHeap{ReadHeap{a}}))|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{1906597429 -> Ref(int)}
+v -> ReferenceValue{1067022162 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1906597429 -> ReferenceValue{1067022162 -> int}
+1067022162 -> 20
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+New{v, 30}|print(ReadHeap{ReadHeap{a}})|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{1906597429 -> Ref(int)}
+v -> ReferenceValue{1067022162 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1906597429 -> ReferenceValue{1067022162 -> int}
+1067022162 -> 20
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+New{v, 30}|print(ReadHeap{ReadHeap{a}})|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{1906597429 -> Ref(int)}
+v -> ReferenceValue{1067022162 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1906597429 -> ReferenceValue{1067022162 -> int}
+1067022162 -> 20
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+print(ReadHeap{ReadHeap{a}})|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{1906597429 -> Ref(int)}
+v -> ReferenceValue{61680805 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1906597429 -> ReferenceValue{1067022162 -> int}
+61680805 -> 30
+1067022162 -> 20
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+print(ReadHeap{ReadHeap{a}})|
+~ SYMBOL TABLE ~
+a -> ReferenceValue{1906597429 -> Ref(int)}
+v -> ReferenceValue{61680805 -> int}
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1906597429 -> ReferenceValue{1067022162 -> int}
+61680805 -> 30
+1067022162 -> 20
+
+
+ID: 981259849
+
+~ EXECUTION STACK ~
+
+~ SYMBOL TABLE ~
+a -> ReferenceValue{1906597429 -> Ref(int)}
+v -> ReferenceValue{61680805 -> int}
+
+~ OUTPUT ~
+20
+
+~ FILE TABLE ~
+
+~ HEAP ~
+1906597429 -> ReferenceValue{1067022162 -> int}
+61680805 -> 30
+1067022162 -> 20
+
+

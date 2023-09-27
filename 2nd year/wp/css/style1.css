@@ -1,0 +1,47 @@
+/* Styles for the graph container */
+.graph {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    width: 400px;
+    height: 300px;
+    border: solid black;
+    border-right: 5px;
+    border-top: 5px;
+    margin: 50px auto;
+}
+
+/* Styles for the bars */
+.bar1 {
+    width: 50px;
+    margin: 0 10px;
+    background-color: blueviolet;
+    height: 100px;
+}
+
+.bar2 {
+    width: 50px;
+    margin: 0 10px;
+    height: 120px;
+    background-color: lightcoral;
+}
+
+.bar3 {
+    width: 50px;
+    margin: 0 10px;
+    height: 200px;
+    background-color: darkseagreen;
+}
+
+.bar4 {
+    width: 50px;
+    margin: 0 10px;
+    height: 50px;
+    background-color: deeppink;
+}
+
+.texty{
+    text-shadow: -.0625rem -.0625rem 0 #6BFFFF, .0625rem .0625rem 0 #FF819E;
+    text-align: center;
+    font-size: 50px;
+}

@@ -1,0 +1,783 @@
+ID: -1146444853
+
+~ EXECUTION STACK ~
+(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1146444853
+
+~ EXECUTION STACK ~
+int a|(int b;(a=2+3*5;(b=a+1;print(b))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1146444853
+
+~ EXECUTION STACK ~
+int a|(int b;(a=2+3*5;(b=a+1;print(b))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1146444853
+
+~ EXECUTION STACK ~
+(int b;(a=2+3*5;(b=a+1;print(b))))|
+~ SYMBOL TABLE ~
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1146444853
+
+~ EXECUTION STACK ~
+(int b;(a=2+3*5;(b=a+1;print(b))))|
+~ SYMBOL TABLE ~
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1146444853
+
+~ EXECUTION STACK ~
+int b|(a=2+3*5;(b=a+1;print(b)))|
+~ SYMBOL TABLE ~
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1146444853
+
+~ EXECUTION STACK ~
+int b|(a=2+3*5;(b=a+1;print(b)))|
+~ SYMBOL TABLE ~
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1146444853
+
+~ EXECUTION STACK ~
+(a=2+3*5;(b=a+1;print(b)))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1146444853
+
+~ EXECUTION STACK ~
+(a=2+3*5;(b=a+1;print(b)))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1146444853
+
+~ EXECUTION STACK ~
+a=2+3*5|(b=a+1;print(b))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1146444853
+
+~ EXECUTION STACK ~
+a=2+3*5|(b=a+1;print(b))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1146444853
+
+~ EXECUTION STACK ~
+(b=a+1;print(b))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1146444853
+
+~ EXECUTION STACK ~
+(b=a+1;print(b))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1146444853
+
+~ EXECUTION STACK ~
+b=a+1|print(b)|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1146444853
+
+~ EXECUTION STACK ~
+b=a+1|print(b)|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1146444853
+
+~ EXECUTION STACK ~
+print(b)|
+~ SYMBOL TABLE ~
+b -> 18
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1146444853
+
+~ EXECUTION STACK ~
+print(b)|
+~ SYMBOL TABLE ~
+b -> 18
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1146444853
+
+~ EXECUTION STACK ~
+
+~ SYMBOL TABLE ~
+b -> 18
+a -> 17
+
+~ OUTPUT ~
+18
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+int a|(int b;(a=2+3*5;(b=a+1;print(b))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+int a|(int b;(a=2+3*5;(b=a+1;print(b))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+(int b;(a=2+3*5;(b=a+1;print(b))))|
+~ SYMBOL TABLE ~
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+(int b;(a=2+3*5;(b=a+1;print(b))))|
+~ SYMBOL TABLE ~
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+int b|(a=2+3*5;(b=a+1;print(b)))|
+~ SYMBOL TABLE ~
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+int b|(a=2+3*5;(b=a+1;print(b)))|
+~ SYMBOL TABLE ~
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+(a=2+3*5;(b=a+1;print(b)))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+(a=2+3*5;(b=a+1;print(b)))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+a=2+3*5|(b=a+1;print(b))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+a=2+3*5|(b=a+1;print(b))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+(b=a+1;print(b))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+(b=a+1;print(b))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+b=a+1|print(b)|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+b=a+1|print(b)|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+print(b)|
+~ SYMBOL TABLE ~
+b -> 18
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+print(b)|
+~ SYMBOL TABLE ~
+b -> 18
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -72348657
+
+~ EXECUTION STACK ~
+
+~ SYMBOL TABLE ~
+b -> 18
+a -> 17
+
+~ OUTPUT ~
+18
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+int a|(int b;(a=2+3*5;(b=a+1;print(b))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+int a|(int b;(a=2+3*5;(b=a+1;print(b))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+(int b;(a=2+3*5;(b=a+1;print(b))))|
+~ SYMBOL TABLE ~
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+(int b;(a=2+3*5;(b=a+1;print(b))))|
+~ SYMBOL TABLE ~
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+int b|(a=2+3*5;(b=a+1;print(b)))|
+~ SYMBOL TABLE ~
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+int b|(a=2+3*5;(b=a+1;print(b)))|
+~ SYMBOL TABLE ~
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+(a=2+3*5;(b=a+1;print(b)))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+(a=2+3*5;(b=a+1;print(b)))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+a=2+3*5|(b=a+1;print(b))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+a=2+3*5|(b=a+1;print(b))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+(b=a+1;print(b))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+(b=a+1;print(b))|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+b=a+1|print(b)|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+b=a+1|print(b)|
+~ SYMBOL TABLE ~
+b -> 0
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+print(b)|
+~ SYMBOL TABLE ~
+b -> 18
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+print(b)|
+~ SYMBOL TABLE ~
+b -> 18
+a -> 17
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1738830158
+
+~ EXECUTION STACK ~
+
+~ SYMBOL TABLE ~
+b -> 18
+a -> 17
+
+~ OUTPUT ~
+18
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+

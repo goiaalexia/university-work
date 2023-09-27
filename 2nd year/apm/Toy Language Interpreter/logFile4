@@ -1,0 +1,1584 @@
+ID: -313903310
+
+~ EXECUTION STACK ~
+(String varf;(varf=test.in;(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+String varf|(varf=test.in;(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+String varf|(varf=test.in;(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+(varf=test.in;(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))))|
+~ SYMBOL TABLE ~
+varf ->  
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+(varf=test.in;(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))))|
+~ SYMBOL TABLE ~
+varf ->  
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+varf=test.in|(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))))|
+~ SYMBOL TABLE ~
+varf ->  
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+varf=test.in|(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))))|
+~ SYMBOL TABLE ~
+varf ->  
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+OpenReadFile{varf}|(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+OpenReadFile{varf}|(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+int varc|(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+int varc|(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))|
+~ SYMBOL TABLE ~
+varc -> 0
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))|
+~ SYMBOL TABLE ~
+varc -> 0
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+ReadFile{varf, varc}|(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))|
+~ SYMBOL TABLE ~
+varc -> 0
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+ReadFile{varf, varc}|(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))|
+~ SYMBOL TABLE ~
+varc -> 0
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+print(varc)|(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+print(varc)|(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+ReadFile{varf, varc}|(print(varc);CloseReadFile{varf})|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+ReadFile{varf, varc}|(print(varc);CloseReadFile{varf})|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+(print(varc);CloseReadFile{varf})|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+(print(varc);CloseReadFile{varf})|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+print(varc)|CloseReadFile{varf}|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+print(varc)|CloseReadFile{varf}|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+CloseReadFile{varf}|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+50
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+CloseReadFile{varf}|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+50
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@7e0b37bc
+
+~ HEAP ~
+
+
+ID: -313903310
+
+~ EXECUTION STACK ~
+
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+50
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+(String varf;(varf=test.in;(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+String varf|(varf=test.in;(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+String varf|(varf=test.in;(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+(varf=test.in;(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))))|
+~ SYMBOL TABLE ~
+varf ->  
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+(varf=test.in;(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))))|
+~ SYMBOL TABLE ~
+varf ->  
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+varf=test.in|(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))))|
+~ SYMBOL TABLE ~
+varf ->  
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+varf=test.in|(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))))|
+~ SYMBOL TABLE ~
+varf ->  
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+OpenReadFile{varf}|(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+OpenReadFile{varf}|(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+int varc|(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+int varc|(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))|
+~ SYMBOL TABLE ~
+varc -> 0
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))|
+~ SYMBOL TABLE ~
+varc -> 0
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+ReadFile{varf, varc}|(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))|
+~ SYMBOL TABLE ~
+varc -> 0
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+ReadFile{varf, varc}|(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))|
+~ SYMBOL TABLE ~
+varc -> 0
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+print(varc)|(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+print(varc)|(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+ReadFile{varf, varc}|(print(varc);CloseReadFile{varf})|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+ReadFile{varf, varc}|(print(varc);CloseReadFile{varf})|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+(print(varc);CloseReadFile{varf})|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+(print(varc);CloseReadFile{varf})|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+print(varc)|CloseReadFile{varf}|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+print(varc)|CloseReadFile{varf}|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+CloseReadFile{varf}|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+50
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+CloseReadFile{varf}|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+50
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@368102c8
+
+~ HEAP ~
+
+
+ID: 822979451
+
+~ EXECUTION STACK ~
+
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+50
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+(String varf;(varf=test.in;(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+String varf|(varf=test.in;(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+String varf|(varf=test.in;(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+(varf=test.in;(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))))|
+~ SYMBOL TABLE ~
+varf ->  
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+(varf=test.in;(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))))|
+~ SYMBOL TABLE ~
+varf ->  
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+varf=test.in|(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))))|
+~ SYMBOL TABLE ~
+varf ->  
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+varf=test.in|(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))))|
+~ SYMBOL TABLE ~
+varf ->  
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+(OpenReadFile{varf};(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+OpenReadFile{varf}|(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+OpenReadFile{varf}|(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+(int varc;(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+int varc|(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+int varc|(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))|
+~ SYMBOL TABLE ~
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))|
+~ SYMBOL TABLE ~
+varc -> 0
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+(ReadFile{varf, varc};(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))))|
+~ SYMBOL TABLE ~
+varc -> 0
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+ReadFile{varf, varc}|(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))|
+~ SYMBOL TABLE ~
+varc -> 0
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+ReadFile{varf, varc}|(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))|
+~ SYMBOL TABLE ~
+varc -> 0
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+(print(varc);(ReadFile{varf, varc};(print(varc);CloseReadFile{varf})))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+print(varc)|(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+print(varc)|(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+(ReadFile{varf, varc};(print(varc);CloseReadFile{varf}))|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+ReadFile{varf, varc}|(print(varc);CloseReadFile{varf})|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+ReadFile{varf, varc}|(print(varc);CloseReadFile{varf})|
+~ SYMBOL TABLE ~
+varc -> 15
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+(print(varc);CloseReadFile{varf})|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+(print(varc);CloseReadFile{varf})|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+print(varc)|CloseReadFile{varf}|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+print(varc)|CloseReadFile{varf}|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+CloseReadFile{varf}|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+50
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+CloseReadFile{varf}|
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+50
+
+~ FILE TABLE ~
+test.in -> java.io.BufferedReader@1ee0005
+
+~ HEAP ~
+
+
+ID: -2083210877
+
+~ EXECUTION STACK ~
+
+~ SYMBOL TABLE ~
+varc -> 50
+varf -> test.in
+
+~ OUTPUT ~
+15
+50
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+

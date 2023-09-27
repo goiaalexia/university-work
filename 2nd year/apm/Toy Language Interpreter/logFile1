@@ -1,0 +1,552 @@
+ID: 1933592434
+
+~ EXECUTION STACK ~
+(int v;(v=2;print(v)))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1933592434
+
+~ EXECUTION STACK ~
+int v|(v=2;print(v))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1933592434
+
+~ EXECUTION STACK ~
+int v|(v=2;print(v))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1933592434
+
+~ EXECUTION STACK ~
+(v=2;print(v))|
+~ SYMBOL TABLE ~
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1933592434
+
+~ EXECUTION STACK ~
+(v=2;print(v))|
+~ SYMBOL TABLE ~
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1933592434
+
+~ EXECUTION STACK ~
+v=2|print(v)|
+~ SYMBOL TABLE ~
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1933592434
+
+~ EXECUTION STACK ~
+v=2|print(v)|
+~ SYMBOL TABLE ~
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1933592434
+
+~ EXECUTION STACK ~
+print(v)|
+~ SYMBOL TABLE ~
+v -> 2
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1933592434
+
+~ EXECUTION STACK ~
+print(v)|
+~ SYMBOL TABLE ~
+v -> 2
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1933592434
+
+~ EXECUTION STACK ~
+
+~ SYMBOL TABLE ~
+v -> 2
+
+~ OUTPUT ~
+2
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -397513542
+
+~ EXECUTION STACK ~
+(int v;(v=2;print(v)))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -397513542
+
+~ EXECUTION STACK ~
+int v|(v=2;print(v))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -397513542
+
+~ EXECUTION STACK ~
+int v|(v=2;print(v))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -397513542
+
+~ EXECUTION STACK ~
+(v=2;print(v))|
+~ SYMBOL TABLE ~
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -397513542
+
+~ EXECUTION STACK ~
+(v=2;print(v))|
+~ SYMBOL TABLE ~
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -397513542
+
+~ EXECUTION STACK ~
+v=2|print(v)|
+~ SYMBOL TABLE ~
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -397513542
+
+~ EXECUTION STACK ~
+v=2|print(v)|
+~ SYMBOL TABLE ~
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -397513542
+
+~ EXECUTION STACK ~
+print(v)|
+~ SYMBOL TABLE ~
+v -> 2
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -397513542
+
+~ EXECUTION STACK ~
+print(v)|
+~ SYMBOL TABLE ~
+v -> 2
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -397513542
+
+~ EXECUTION STACK ~
+
+~ SYMBOL TABLE ~
+v -> 2
+
+~ OUTPUT ~
+2
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1522407646
+
+~ EXECUTION STACK ~
+(int v;(v=2;print(v)))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1522407646
+
+~ EXECUTION STACK ~
+int v|(v=2;print(v))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1522407646
+
+~ EXECUTION STACK ~
+int v|(v=2;print(v))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1522407646
+
+~ EXECUTION STACK ~
+(v=2;print(v))|
+~ SYMBOL TABLE ~
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1522407646
+
+~ EXECUTION STACK ~
+(v=2;print(v))|
+~ SYMBOL TABLE ~
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1522407646
+
+~ EXECUTION STACK ~
+v=2|print(v)|
+~ SYMBOL TABLE ~
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1522407646
+
+~ EXECUTION STACK ~
+v=2|print(v)|
+~ SYMBOL TABLE ~
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1522407646
+
+~ EXECUTION STACK ~
+print(v)|
+~ SYMBOL TABLE ~
+v -> 2
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1522407646
+
+~ EXECUTION STACK ~
+print(v)|
+~ SYMBOL TABLE ~
+v -> 2
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1522407646
+
+~ EXECUTION STACK ~
+
+~ SYMBOL TABLE ~
+v -> 2
+
+~ OUTPUT ~
+2
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1653223720
+
+~ EXECUTION STACK ~
+(int v;(v=2;print(v)))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1653223720
+
+~ EXECUTION STACK ~
+int v|(v=2;print(v))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1653223720
+
+~ EXECUTION STACK ~
+int v|(v=2;print(v))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1653223720
+
+~ EXECUTION STACK ~
+(v=2;print(v))|
+~ SYMBOL TABLE ~
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1653223720
+
+~ EXECUTION STACK ~
+(v=2;print(v))|
+~ SYMBOL TABLE ~
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1653223720
+
+~ EXECUTION STACK ~
+v=2|print(v)|
+~ SYMBOL TABLE ~
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1653223720
+
+~ EXECUTION STACK ~
+v=2|print(v)|
+~ SYMBOL TABLE ~
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1653223720
+
+~ EXECUTION STACK ~
+print(v)|
+~ SYMBOL TABLE ~
+v -> 2
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1653223720
+
+~ EXECUTION STACK ~
+print(v)|
+~ SYMBOL TABLE ~
+v -> 2
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1653223720
+
+~ EXECUTION STACK ~
+
+~ SYMBOL TABLE ~
+v -> 2
+
+~ OUTPUT ~
+2
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+

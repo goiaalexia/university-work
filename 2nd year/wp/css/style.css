@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav#raiseup {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+nav#raiseup ul { /* list of menus */
+    list-style: none; /* this determines the list to not have bullets */
+    margin: 0;
+    display: flex; /* displays content in a flexbox thing */
+    border: 1px solid #2e3436;
+}
+
+nav#raiseup p:after { /* after is used to add the arrow nicely */
+    margin-left: 5px;
+    content: '\25b2'; /* arrow */
+    font-size: 20px;
+    opacity: 0.5;
+}
+
+nav#raiseup li:hover > p:after {
+    opacity: 1;
+}
+
+nav#raiseup a,
+nav#raiseup p {
+    display: inline-block;
+    background-color: #541ef8;
+    color: #000000;
+    width: 100%;
+    text-align: center;
+    padding: 2px;
+    font-family: Wingdings, serif;
+}
+
+nav#raiseup li:hover > a,
+nav#raiseup li:hover > p {
+    background-color: #f500a3;
+}
+
+nav#raiseup > ul > li {
+    flex: 0.2; /* for proper page fitting */
+    position: relative;
+}
+
+nav#raiseup li > ul {
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+nav#raiseup li:hover > ul {
+    display: block; /* separate elements one under the other */
+    top: 0;
+    transform: translateY(-100%);
+}

@@ -1,0 +1,1164 @@
+ID: -949222482
+
+~ EXECUTION STACK ~
+(boolean a;(int v;(a=true;(if(a) then(v=2) else(v=3);print(v)))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+boolean a|(int v;(a=true;(if(a) then(v=2) else(v=3);print(v))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+boolean a|(int v;(a=true;(if(a) then(v=2) else(v=3);print(v))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+(int v;(a=true;(if(a) then(v=2) else(v=3);print(v))))|
+~ SYMBOL TABLE ~
+a -> false
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+(int v;(a=true;(if(a) then(v=2) else(v=3);print(v))))|
+~ SYMBOL TABLE ~
+a -> false
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+int v|(a=true;(if(a) then(v=2) else(v=3);print(v)))|
+~ SYMBOL TABLE ~
+a -> false
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+int v|(a=true;(if(a) then(v=2) else(v=3);print(v)))|
+~ SYMBOL TABLE ~
+a -> false
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+(a=true;(if(a) then(v=2) else(v=3);print(v)))|
+~ SYMBOL TABLE ~
+a -> false
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+(a=true;(if(a) then(v=2) else(v=3);print(v)))|
+~ SYMBOL TABLE ~
+a -> false
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+a=true|(if(a) then(v=2) else(v=3);print(v))|
+~ SYMBOL TABLE ~
+a -> false
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+a=true|(if(a) then(v=2) else(v=3);print(v))|
+~ SYMBOL TABLE ~
+a -> false
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+(if(a) then(v=2) else(v=3);print(v))|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+(if(a) then(v=2) else(v=3);print(v))|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+if(a) then(v=2) else(v=3)|print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+if(a) then(v=2) else(v=3)|print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+v=2|print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+v=2|print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 2
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 2
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -949222482
+
+~ EXECUTION STACK ~
+
+~ SYMBOL TABLE ~
+a -> true
+v -> 2
+
+~ OUTPUT ~
+2
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+(boolean a;(int v;(a=true;(if(a) then(v=2) else(v=3);print(v)))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+boolean a|(int v;(a=true;(if(a) then(v=2) else(v=3);print(v))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+boolean a|(int v;(a=true;(if(a) then(v=2) else(v=3);print(v))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+(int v;(a=true;(if(a) then(v=2) else(v=3);print(v))))|
+~ SYMBOL TABLE ~
+a -> false
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+(int v;(a=true;(if(a) then(v=2) else(v=3);print(v))))|
+~ SYMBOL TABLE ~
+a -> false
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+int v|(a=true;(if(a) then(v=2) else(v=3);print(v)))|
+~ SYMBOL TABLE ~
+a -> false
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+int v|(a=true;(if(a) then(v=2) else(v=3);print(v)))|
+~ SYMBOL TABLE ~
+a -> false
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+(a=true;(if(a) then(v=2) else(v=3);print(v)))|
+~ SYMBOL TABLE ~
+a -> false
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+(a=true;(if(a) then(v=2) else(v=3);print(v)))|
+~ SYMBOL TABLE ~
+a -> false
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+a=true|(if(a) then(v=2) else(v=3);print(v))|
+~ SYMBOL TABLE ~
+a -> false
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+a=true|(if(a) then(v=2) else(v=3);print(v))|
+~ SYMBOL TABLE ~
+a -> false
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+(if(a) then(v=2) else(v=3);print(v))|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+(if(a) then(v=2) else(v=3);print(v))|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+if(a) then(v=2) else(v=3)|print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+if(a) then(v=2) else(v=3)|print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+v=2|print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+v=2|print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 2
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 2
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: -1515755841
+
+~ EXECUTION STACK ~
+
+~ SYMBOL TABLE ~
+a -> true
+v -> 2
+
+~ OUTPUT ~
+2
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+(boolean a;(int v;(a=true;(if(a) then(v=2) else(v=3);print(v)))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+boolean a|(int v;(a=true;(if(a) then(v=2) else(v=3);print(v))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+boolean a|(int v;(a=true;(if(a) then(v=2) else(v=3);print(v))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+(int v;(a=true;(if(a) then(v=2) else(v=3);print(v))))|
+~ SYMBOL TABLE ~
+a -> false
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+(int v;(a=true;(if(a) then(v=2) else(v=3);print(v))))|
+~ SYMBOL TABLE ~
+a -> false
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+int v|(a=true;(if(a) then(v=2) else(v=3);print(v)))|
+~ SYMBOL TABLE ~
+a -> false
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+int v|(a=true;(if(a) then(v=2) else(v=3);print(v)))|
+~ SYMBOL TABLE ~
+a -> false
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+(a=true;(if(a) then(v=2) else(v=3);print(v)))|
+~ SYMBOL TABLE ~
+a -> false
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+(a=true;(if(a) then(v=2) else(v=3);print(v)))|
+~ SYMBOL TABLE ~
+a -> false
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+a=true|(if(a) then(v=2) else(v=3);print(v))|
+~ SYMBOL TABLE ~
+a -> false
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+a=true|(if(a) then(v=2) else(v=3);print(v))|
+~ SYMBOL TABLE ~
+a -> false
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+(if(a) then(v=2) else(v=3);print(v))|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+(if(a) then(v=2) else(v=3);print(v))|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+if(a) then(v=2) else(v=3)|print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+if(a) then(v=2) else(v=3)|print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+v=2|print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+v=2|print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 2
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 2
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1381061023
+
+~ EXECUTION STACK ~
+
+~ SYMBOL TABLE ~
+a -> true
+v -> 2
+
+~ OUTPUT ~
+2
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+(boolean a;(int v;(a=true;(if(a) then(v=2) else(v=3);print(v)))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+boolean a|(int v;(a=true;(if(a) then(v=2) else(v=3);print(v))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+boolean a|(int v;(a=true;(if(a) then(v=2) else(v=3);print(v))))|
+~ SYMBOL TABLE ~
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+(int v;(a=true;(if(a) then(v=2) else(v=3);print(v))))|
+~ SYMBOL TABLE ~
+a -> false
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+(int v;(a=true;(if(a) then(v=2) else(v=3);print(v))))|
+~ SYMBOL TABLE ~
+a -> false
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+int v|(a=true;(if(a) then(v=2) else(v=3);print(v)))|
+~ SYMBOL TABLE ~
+a -> false
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+int v|(a=true;(if(a) then(v=2) else(v=3);print(v)))|
+~ SYMBOL TABLE ~
+a -> false
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+(a=true;(if(a) then(v=2) else(v=3);print(v)))|
+~ SYMBOL TABLE ~
+a -> false
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+(a=true;(if(a) then(v=2) else(v=3);print(v)))|
+~ SYMBOL TABLE ~
+a -> false
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+a=true|(if(a) then(v=2) else(v=3);print(v))|
+~ SYMBOL TABLE ~
+a -> false
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+a=true|(if(a) then(v=2) else(v=3);print(v))|
+~ SYMBOL TABLE ~
+a -> false
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+(if(a) then(v=2) else(v=3);print(v))|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+(if(a) then(v=2) else(v=3);print(v))|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+if(a) then(v=2) else(v=3)|print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+if(a) then(v=2) else(v=3)|print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+v=2|print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+v=2|print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 0
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 2
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+print(v)|
+~ SYMBOL TABLE ~
+a -> true
+v -> 2
+
+~ OUTPUT ~
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+
+ID: 1474847511
+
+~ EXECUTION STACK ~
+
+~ SYMBOL TABLE ~
+a -> true
+v -> 2
+
+~ OUTPUT ~
+2
+
+~ FILE TABLE ~
+
+~ HEAP ~
+
+

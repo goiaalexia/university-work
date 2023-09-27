@@ -1,0 +1,74 @@
+<table id="myTable">
+  <thead>
+  <tr>
+    <th onclick="sortTable(0)">Name</th>
+    <th onclick="sortTable(1)">Age</th>
+    <th onclick="sortTable(2)">Country</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td>John</td>
+    <td>25</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>Mike</td>
+    <td>30</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Sara</td>
+    <td>20</td>
+    <td>Australia</td>
+  </tr>
+  <tr>
+    <td>Emily</td>
+    <td>22</td>
+    <td>UK</td>
+  </tr>
+  </tbody>
+</table>
+
+<script>
+  function sortTable(columnIndex) {
+    let table, rows, switching, i, x, y, shouldSwitch, sortOrder;
+    table = document.getElementById("myTable");
+    switching = true;
+    // Set the sorting direction to ascending by default
+    sortOrder = "asc";
+    while (switching) {
+      console.log(sortOrder)
+      switching = false;
+      rows = table.rows;
+      // Loop through all table rows except the first one (header)
+      for (i = 1; i < rows.length - 1; i++) {
+        shouldSwitch = false;
+        x = rows[i].getElementsByTagName("td")[columnIndex];
+        y = rows[i + 1].getElementsByTagName("td")[columnIndex];
+        // Check if the two rows should switch place based on the sorting order
+        if (sortOrder === "asc") {
+          if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+            shouldSwitch = true;
+            break;
+          }
+        } else if (sortOrder === "desc") {
+          if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+            shouldSwitch = true;
+            break;
+          }
+        }
+      }
+      if (shouldSwitch) {
+        rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+        switching = true;
+      } else {
+        // If no switching was done, change the sorting direction to descending
+        if (sortOrder === "asc") {
+          sortOrder = "desc";
+          switching = true;
+        }
+      }
+    }
+  }
+</script>
