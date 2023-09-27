@@ -84,27 +84,27 @@
   </tr>
   <tr>
     <td> 13. </td>
-    <td> ✮<a href="https://github.com/saltylex/university-work/tree/main/2nd%20year/Advanced%20Programming%20Methods"><b> Advanced Programming Methods</b></a> </td>
+    <td> ✮<a href="https://github.com/saltylex/university-work/tree/main/2nd%20year/apm"><b> Advanced Programming Methods</b></a> </td>
     <td> Java, JavaFX, Collections, Generics, Polymorphis, OOP, XML  </td>
   </tr>
   <tr>
     <td> 14. </td>
-    <td> <a href="https://github.com/saltylex/university-work/tree/main/2nd%20year/Computer%20Networks"><b>✩ Computer Networks</b></a> </td>
+    <td> <a href="https://github.com/saltylex/university-work/tree/main/2nd%20year/comp%20networks"><b>✩ Computer Networks</b></a> </td>
     <td> TCP/IP, UDP, Sockets, Cisco Packet Tracer, Pickle, Server-Client, Network Split, DHCP, RIP Routing </td>
   </tr>
     <tr>
     <td> 15. </td>
-    <td> ✮<a href="https://github.com/saltylex/university-work/tree/main/2nd%20year/Databases"><b> Databases</b></a> </td>
+    <td> ✮<a href="https://github.com/saltylex/university-work/tree/main/2nd%20year/databases"><b> Databases</b></a> </td>
     <td> SQL, CRUD operations on DB, Views, Indexes, Relational Model, Normal Forms </td>
   </tr>
     <tr>
     <td> 16. </td>
-    <td> <a href="https://github.com/saltylex/university-work/tree/main/2nd%20year/Logical%20%26%20Functional%20Programming"><b>✩ Logical & Functional Programming</b></a> </td>
+    <td><b>✩ Logical & Functional Programming</b></td>
     <td> Prolog, Lisp, Mathematical Models, Recursion, Backtracking, MAP Functions </td>
   </tr>
     <tr>
     <td> 17. </td>
-    <td>✮<a href="https://github.com/saltylex/university-work/tree/main/2nd%20year/Probabilities%20%26%20Statistics"> <b> Probabilities & Statistics</b> </td>
+    <td>✮<a href="https://github.com/saltylex/university-work/tree/main/2nd%20year/p%26s"> <b> Probabilities & Statistics</b> </td>
     <td> Matlab, Distributions, Inequalities, Data Collection, Hypothesis Testing </td>
   </tr>
           <tr>
@@ -113,28 +113,24 @@
   </tr>
     <tr>
     <td> 18. </td>
-    <td><a href=""> <b>✩ Artificial Intelligence</b> </td>
+    <td><a href="https://github.com/saltylex/university-work/tree/main/2nd%20year/ai"> <b>✩ Artificial Intelligence</b> </td>
     <td> Pytorch, Evolutionary Algorithms, Swarm Intelligence, ML, Neural Networks, SVM </td>
   </tr>
       <tr>
     <td> 19. </td>
-    <td>✮<a href=""> <b> Web Programming</b> </td>
+    <td>✮<a href="https://github.com/saltylex/university-work/tree/main/2nd%20year/wp"> <b> Web Programming</b> </td>
     <td> HTML, CSS, PHP, Ajax, Angular, JQuery, JavaScript, JSP, ASP.NET </td>
   </tr><tr>
     <td> 20. </td>
-    <td><a href=""> <b>✩ Software Engineering</b> </td>
+    <td><b>✩ Software Engineering</b> </td>
     <td> UML, Kanban, React, TypeScript, Redux, Git branching, Cypress, Diagrams </td>
   </tr><tr>
     <td> 21. </td>
-    <td>✮<a href=""> <b> Database Management Systems</b> </td>
+    <td>✮ <b> Database Management Systems</b> </td>
     <td> SQL, ARIES, Visual Studio, C#, ADO.NET, Distributed Databases </td>
   </tr><tr>
     <td> 22. </td>
-    <td><a href=""> <b>⚔ Systems for Design and Implementation</b> </td>
+    <td><a href="https://github.com/saltylex/university-work/tree/main/2nd%20year/sdi"> <b>⚔ Systems for Design and Implementation</b> </td>
     <td> Fullstack, Django, React, Node.js, Google Cloud, Kubernetes, Docker, Web Sockets, ORM </td>
   </tr>
 </table>
-
-#### to do:
-- [ ] write readme files for oop, dsa and graphs 
-- [ ] commit 2nd year files
