@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DjangoModelDependency</ID>
+  <OriginalElement>#assignment1SDI</OriginalElement>
+  <nodes>
+    <node x="86.99999999999997" y="0.0">django.db.models.base.Model</node>
+    <node x="-278.66483516483515" y="603.0">videogames_api.models.Player</node>
+    <node x="393.69963369963364" y="318.1336996336996">videogames_api.models.VideoGame</node>
+    <node x="10.499999999999972" y="106.0">videogames_api.models.Platform</node>
+    <node x="408.5741758241759" y="716.2454212454213">videogames_api.models.PlayerGame</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="videogames_api.models.PlayerGame" target="videogames_api.models.VideoGame" relationship="ForeignKey">
+      <point x="67.99999999999997" y="-82.0" />
+      <point x="612.5741758241759" y="859.0" />
+      <point x="148.49999999999997" y="859.0" />
+      <point x="148.49999999999997" y="603.0" />
+      <point x="461.19963369963364" y="603.0" />
+      <point x="-67.5" y="115.0" />
+    </edge>
+    <edge source="videogames_api.models.PlayerGame" target="videogames_api.models.Player" relationship="ForeignKey">
+      <point x="67.99999999999997" y="-82.0" />
+      <point x="612.5741758241759" y="859.0" />
+      <point x="-161.66483516483515" y="859.0" />
+      <point x="0.0" y="104.0" />
+    </edge>
+    <edge source="videogames_api.models.Player" target="django.db.models.base.Model" relationship="OneToOne">
+      <point x="58.5" y="-104.0" />
+      <point x="348.0" y="603.0" />
+      <point x="348.0" y="80.0" />
+      <point x="202.49999999999997" y="80.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="videogames_api.models.VideoGame" target="django.db.models.base.Model" relationship="OneToOne">
+      <point x="67.5" y="-115.0" />
+      <point x="596.1996336996336" y="80.0" />
+      <point x="202.49999999999997" y="80.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="videogames_api.models.Platform" target="django.db.models.base.Model" relationship="OneToOne">
+      <point x="0.0" y="-93.0" />
+      <point x="134.99999999999997" y="80.0" />
+      <point x="202.49999999999997" y="80.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="videogames_api.models.VideoGame" target="videogames_api.models.Player" relationship="ManyToMany">
+      <point x="67.5" y="115.0" />
+      <point x="596.1996336996336" y="603.0" />
+      <point x="-58.5" y="-104.0" />
+    </edge>
+    <edge source="videogames_api.models.PlayerGame" target="django.db.models.base.Model" relationship="OneToOne">
+      <point x="-68.00000000000003" y="-82.0" />
+      <point x="476.5741758241759" y="869.0" />
+      <point x="0.0" y="869.0" />
+      <point x="0.0" y="80.0" />
+      <point x="202.49999999999997" y="80.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="videogames_api.models.Player" target="videogames_api.models.VideoGame" relationship="ManyToMany">
+      <point x="-58.5" y="-104.0" />
+      <point x="596.1996336996336" y="603.0" />
+      <point x="67.5" y="115.0" />
+    </edge>
+    <edge source="videogames_api.models.VideoGame" target="videogames_api.models.Platform" relationship="ForeignKey">
+      <point x="-67.5" y="-115.0" />
+      <point x="134.99999999999997" y="318.1336996336996" />
+      <point x="0.0" y="93.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.6100558659217877" showDependencies="false" x="396.0" y="730.0" />
+  <SelectedNodes>
+    <node>videogames_api.models.PlayerGame</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+</Diagram>
+
